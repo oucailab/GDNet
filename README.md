@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-  🖐😭🤚 🌟 If this work is useful to you, please give this repository a Star! 🌟 🖐😭🤚
+ 🌟 If this work is useful to you, please give this repository a Star! 🌟
 </p>
 
 # 🔥 Overview
